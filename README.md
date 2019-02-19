@@ -1,6 +1,6 @@
-# 包名介绍
-## DesignPattern
-设计模式
+# 设计模式(DesignPatter)包名介绍
+
+
 ## abstract_factory_pattern 
 抽象工厂模式
 ## archetypal_pattern
