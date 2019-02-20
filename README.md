@@ -1,16 +1,11 @@
 # 设计模式(DesignPatter)包名介绍
 
 
-## abstract_factory_pattern 
-抽象工厂模式
-## archetypal_pattern
-原型模式
-## factory_pattern
-工厂模式
-## singleton_pattern
-单例模式
-## adapter_pattern
-适配器模式
+## abstract_factory_pattern  抽象工厂模式
+## archetypal_pattern 原型模式
+## factory_pattern 工厂模式
+## singleton_pattern 单例模式
+## adapter_pattern 适配器模式
   ### 1.为媒体播放器和更高级的媒体播放器创建接口。
       eg：MediaPlayer  AdvancedMediaPlayer
   ### 2.创建实现了 AdvancedMediaPlayer 接口的实体类。
